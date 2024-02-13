@@ -1,29 +1,20 @@
-# BloodDonation
+# Blood Donation App
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a Vue 3 application built using Vite.
 
 ## Recommended IDE Setup
+We recommend using Visual Studio Code (VSCode).
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Customize Configuration
+For customizing the Vite configuration, refer to the [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
-
-```sh
+After cloning the repository, navigate to the project directory and install the dependencies using npm:
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
+## Run project
+```bash
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
