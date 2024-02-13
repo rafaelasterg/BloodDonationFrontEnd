@@ -3,7 +3,9 @@
 This project is a Vue 3 application built using Vite.
 
 ## Recommended IDE Setup
-We recommend using Visual Studio Code (VSCode).
+We recommend using Visual Studio Code (VSCode) with the prerequisites:
+->[Flowbite]([https://www.google.com](https://flowbite.com/docs/getting-started/quickstart/))
+
 
 ## Customize Configuration
 For customizing the Vite configuration, refer to the [Vite Configuration Reference](https://vitejs.dev/config/).
