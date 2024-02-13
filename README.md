@@ -1,4 +1,4 @@
-# Blood Donation App
+# Blood Donation (Front-end)
 
 This project is a Vue 3 application built using Vite.
 
@@ -19,4 +19,11 @@ npm install
 ## Run project
 ```bash
 npm run dev
+```
+
+You need to install a directory of modules required to run 
+
+```
+touch myModule.js
+
 ```
